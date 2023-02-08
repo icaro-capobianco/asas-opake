@@ -1,5 +1,5 @@
 {
-    "name": "@asas-virtuais/opake-ts",
+    "name": "asas-opake",
     "version": "1.0.0",
     "description": "Outlines OPAKE authentication using typescript, crypto-js and node-forge",
     "type": "module",
